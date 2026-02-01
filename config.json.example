@@ -1,0 +1,11 @@
+{
+    "matrix": {
+        "homeserver": "YOUR_MATRIX_HOMESERVER",
+        "user_id": "@your_bot:matrix.org",
+        "password": "YOUR_BOT_PASSWORD"
+    },
+    "firefly_iii": {
+        "url": "YOUR_FIREFLY_URL",
+        "api_token": "YOUR_ACCESS_TOKEN"
+    }
+}

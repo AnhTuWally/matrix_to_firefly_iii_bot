@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+.vscode/
+__pycache__/
+*.pyc
+venv/
+
+# secret files - DO NOT TRACK
+store/
+config.json
+session.txt
+
